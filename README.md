@@ -176,4 +176,12 @@ Please note that this license is designed to prevent commercial usage of the cod
 
 ## 📬 Contact
 
-If you have any questions, suggestions, or feedback, please don't hesitate to open an issue.
+📣 We encourage you to get involved! If you have any questions, suggestions, or run into any issues with this project, please don't hesitate to open an issue on this repository. 
+
+👉 [Open an Issue](https://github.com/orelz890/Neuro_Ex1_Adaline_Classifier/issues)
+
+We value your feedback and contributions, and we'll do our best to address any concerns or ideas you may have. Let's make this project better together!
+
+
+
+🚀 **Happy Coding!**
