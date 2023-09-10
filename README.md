@@ -4,6 +4,24 @@
 </div></br>
 
 
+---
+**<h1 align="center">Part I</h1>**
+
+
+### Dataset 🎨
+
+Our dataset is substantial, containing a total of 2000 matrices of Mem, Beit, and Lamed Hebrew Letters, which we meticulously created for this project.
+
+We will provide a [script](Dataset/createData.py) that allows you to generate your dataset by inserting images of each Mem, Beit, and Lamed letter. 📁 This script creates 27 data matrices for each set of 9 input images (3 of each).
+
+Additionally, we collaborated with a group of students, each contributing their set of 27 letter matrices using the same code. Together, we reached a dataset size of over 2000, ensuring the richness and diversity of our dataset.
+</br></br>
+
+
+---
+**<h1 align="center">Part II</h1>**
+
+
 ### Table of Accuracy Results 📊
 
 |                        |    Beit vs Lamed  |    Beit vs Mem    |    Lamed vs Mem   |
@@ -16,26 +34,6 @@
 |     **Average**        |0.8091              |0.7782            |0.8316             |
 | **Standard Deviation** |0.0170              |0.0121            |0.0051             |
 </br></br>
-
-
-
----
-**<h1 align="center">Part I</h1>**
-
-
-### Dataset 🎨
-
-Our dataset is substantial, containing a total of 2000 matrices of Mem, Beit, and Lamed Hebrew Letters, which we meticulously created for this project.
-
-We will provide a [script](Dataset/createData.py) that allows you to generate your dataset by inserting images of each Mem, Beit, and Lamed letter. 📁 This script creates 27 data matrices for each set of 9 input images (3 of each).
-
-Additionally, we collaborated with a group of students, each contributing their set of 27 letter matrices using the same code. Together, we reached a dataset size of over 2000, ensuring the richness and diversity of our dataset.
-
-
-</br></br>
----
-**<h1 align="center">Part II</h1>**
-
 
 
 ### Story 📖
@@ -179,17 +177,3 @@ Please note that this license is designed to prevent commercial usage of the cod
 ## 📬 Contact
 
 If you have any questions, suggestions, or feedback, please don't hesitate to open an issue.
-
-
-
-<!-- # Table of Accuracy Results:
-
-|                      |   Bet vs Lamed   |   Bet vs Mem     |   Lamed vs Mem   |
-| -------------------- | ---------------  | ---------------  | ---------------  |
-|  **Cross Val 1**     |                  |                  |                  |
-|  **Cross Val 2**     |                  |                  |                  |
-|  **Cross Val 3**     |                  |                  |                  |
-|  **Cross Val 4**     |                  |                  |                  |
-|  **Cross Val 5**     |                  |                  |                  |
-|    **Average**       |                  |                  |                  |
-|**Standard Deviation**|                  |                  |                  | -->
